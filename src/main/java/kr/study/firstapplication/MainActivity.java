@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         for(int i=1; i<=n;i++){
             a+=i;
         }
-        String s = "1부터 " + String.valueOf(n) + "을 더한 값은 " + String.valueOf(a) + "\n";
+        String s = "1부터어어 " + String.valueOf(n) + "을 더한 값은 " + String.valueOf(a) + "\n";
         return s;
     }
 }
